@@ -1,5 +1,7 @@
 # GTA VI launch-day Twitch viewers — hour-by-hour quantile forecaster
 
+[make.fun bounty: Forecast GTA VI's launch-day Twitch viewers hour by hour](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
+
 An entry for make.fun's **gta6-twitch-ccu-forecast-01**: given everything recorded about a game
 launch up to the end of its first UTC hour — that hour's concurrent-viewer print in the game's
 Twitch category, the hourly history before it, and a library of past big launches with their full
